@@ -132,3 +132,19 @@ convertHMS: function(value) {
               link.push(value.id);
               num = num+=1
               msg += (`${num} - ${value.title} (${value.length.simpleText})\n\n`);
+            }
+            var body = `»🔎 There's ${link.length} the result coincides with your search keyword:\n\n${msg}» Reply(feedback) select one of the searches above `
+            return nayan.reply({
+              body: body
+            }, events.threadID, (error, info) => global.client.handleReply.push({
+              type: 'reply',
+              name: this.config.name,
+              messageID: info.messageID,
+              author: events.senderID,
+              link
+            }), events.messageID);
+          } catch(e) {
+            return nayan.reply('An error has occurred, please try again in a moment!!\n' + e, events.threadID, events.messageID);
+        }
+    }
+                                                                                                                                                                                                       }}
