@@ -1,4 +1,4 @@
-module🥱.exports.config = {
+module.exports.config = {
     name: "cat",
     version: "1.0.0",
     permssion: 0,
