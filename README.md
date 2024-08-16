@@ -58,7 +58,7 @@
     <img align="center" src="Nayan/web.png" alt="website" height="50" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:samarjit9203@gmail.com" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61558108857573" target="_blank">
     <img align="center" src="Nayan/facebook.png" alt="facebook" height="50" width="55" />
   </a>
 </p>
