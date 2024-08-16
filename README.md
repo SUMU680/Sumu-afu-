@@ -50,7 +50,7 @@
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
-  <a href="mailto:samarjit9203@gmail.com" target="_blank">
+  <a href="mailto:sumubot5@gmail.com" target="_blank">
     <img align="center" src="Nayan/gmail.png" alt="mail" height="50" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
