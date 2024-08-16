@@ -58,8 +58,8 @@
     <img align="center" src="Nayan/web.png" alt="website" height="50" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/samarjit-sahoo/" target="_blank">
-    <img align="center" src="Nayan/linkedin.png" alt="linkedin" height="60" width="60" />
+  <a href="mailto:samarjit9203@gmail.com" target="_blank">
+    <img align="center" src="Nayan/facebook.png" alt="facebook" height="50" width="55" />
   </a>
 </p>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
